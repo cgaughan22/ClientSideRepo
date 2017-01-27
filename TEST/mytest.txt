@@ -8,3 +8,6 @@ YES, Test.
 some body
 </body>
 </html>
+
+
+Then, I "fixed the bug" on the branch "bug fix on file myJS.js line **"
