@@ -10,4 +10,8 @@ some body
 </html>
 
 
+<<<<<<< HEAD
 Just kidding I want This FIx
+=======
+Then, I "fixed the bug" on the branch "bug fix on file myJS.js line **"
+>>>>>>> refs/remotes/origin/bug-fix-on-myJS.js-line-45
